@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Larissa Rafaela Fogaça
-- 👀 I’m interresada em data science
+- 👀 I’m interested in data science in medicine
 - 🌱 I’m currently learning  programação
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
